@@ -11,9 +11,9 @@ ADD_TRACKS_PER_REQUEST_LIMIT = 100
 REMOVE_TRACKS_PER_REQUEST_LIMIT = 100 # No idea if its the limit but i dont want to test it
 
 SPOTIFY_PLAYLIST_SCOPE = 'playlist-modify-private playlist-modify-public'
-SECRETS_CLIENT_ID = 'spotfiy-api-clientid'
-SECRETS_SECRET_ID = 'spotfiy-api-secret'
-SECRETS_REDIRECT_URI = 'spotfiy-api-redirect_uri'
+SECRETS_CLIENT_ID = 'spotify-api-clientid'
+SECRETS_SECRET_ID = 'spotify-api-secret'
+SECRETS_REDIRECT_URI = 'spotify-api-redirect_uri'
 CACHE_PATH = 'cache_file'
 
 def get_tracks_id(tracks_info):

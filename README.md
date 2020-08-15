@@ -11,9 +11,9 @@ You can use any valid url for the redirect uri "http://example.com" for example 
 Create `secrets.json` file \
 ```json
 {
-	"spotfiy-api-clientid": "",
-	"spotfiy-api-secret": "",
-	"spotfiy-api-redirect_uri": ""
+	"spotify-api-clientid": "",
+	"spotify-api-secret": "",
+	"spotify-api-redirect_uri": ""
 }
 ```
 
